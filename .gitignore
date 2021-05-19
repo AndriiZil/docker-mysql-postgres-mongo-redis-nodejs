@@ -1,0 +1,6 @@
+# WebStorm configuration files
+.idea
+# Modules
+node_modules
+# Database files
+db
